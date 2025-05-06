@@ -1,0 +1,6 @@
+accid,UserID,f_name,l_name,password,taxid
+1,user1,Alice,Smith,P@$$wOrd123,AS123456789
+2,user2,Bob,Johnson,SecurePwd!,BJ987654321
+3,user3,Charlie,Brown,MyStrongPass,CB112233445
+4,user4,Diana,Miller,Complex#Pass,DM554433221
+5,user5,Ethan,Davis,AnotherSecure,ED667788990
